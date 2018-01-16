@@ -1,0 +1,2 @@
+# pinyinbot
+Pinyin helper bot
